@@ -1,0 +1,12 @@
+Ligar um interruptor e deixar por alguns minutos.
+Desligá-lo, ligar outro e entrar em uma sala.
+    Se lampada acesa, sabe-se qual interruptor corresponde à ela.
+        Voltar para as chaves, desligar todas e ligar outra.
+            Independente do estado, saberá qual interruptor a pertence.
+
+    Se lampada apagada e fria ao toque, sabe-se que é o interruptor não usado
+        Repetir processo da linha 4. De modo semelhante, ficará claro qual lampada é correspondente.
+
+    Se lampada apagada, porém, estiver quente ao toque, deduz-se que é o interruptor o qual ficou aceso por um tempo.
+        Repetir processo da linha 4.
+        
